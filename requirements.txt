@@ -1,0 +1,7 @@
+gradio
+pandas
+numpy
+scikit-learn==1.8.0
+xgboost==3.3.0
+joblib
+scipy
